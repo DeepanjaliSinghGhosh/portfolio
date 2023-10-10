@@ -6,16 +6,16 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
 	title: {
-		default: "ayushannand",
-		template: "%s | ayushannand",
+		default: "deepanjali",
+		template: "%s | deepanjali",
 	},
-	description: "Upocming Software engineer at adobe.com",
+	description: "Upocming Software engineer at Microsoft",
 	openGraph: {
-		title: "ayushannand",
+		title: "deepanjali",
 		description:
 			"Upcoming Software engineer at adobe.com",
-		url: "https://linkedin.com/in/ayushannand",
-		siteName: "ayushannand",
+		url: "https://linkedin.com/in/deepanjalisinghghosh",
+		siteName: "deepanjali",
 		images: [
 			{
 				url: "https://avatars.githubusercontent.com/u/75881709?v=4",
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 		},
 	},
 	twitter: {
-		title: "ayushannand",
+		title: "deepanjali",
 		card: "summary_large_image",
 	},
 	icons: {

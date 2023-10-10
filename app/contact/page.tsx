@@ -7,21 +7,21 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <Linkedin size={20} />,
-		href: "https://linkedin.com/in/ayushannand",
+		href: "https://linkedin.com/in/deepanjalisinghghosh",
 		label: "LinkedIn",
-		handle: "@ayushannand",
+		handle: "@DeepanjaliSinghGhosh",
 	},
 	{
 		icon: <Github size={20} />,
-		href: "https://github.com/ayushannand",
+		href: "https://github.com/DeepanjaliSinghGhosh",
 		label: "Github",
-		handle: "@ayushannand",
+		handle: "@DeepanjaliSinghGhosh",
 	},
 	{
 		icon: <Instagram size={20} />,
-		href: "https://www.instagram.com/ayushannand/",
+		href: "https://www.instagram.com/DeepanjaliSinghGhosh/",
 		label: "Instagram",
-		handle: "@ayushannand",
+		handle: "@DeepanjaliSinghGhosh",
 	}
 ];
 

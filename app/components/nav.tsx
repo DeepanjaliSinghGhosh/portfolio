@@ -46,12 +46,12 @@ export const Navigation: React.FC = () => {
 						>
 							Skills
 						</Link>
-						<Link
+						{/* <Link
 							href="/recommendation"
 							className="duration-200 text-zinc-400 hover:text-zinc-100"
 						>
 							Recommendation
-						</Link>
+						</Link> */}
 					</div>
 
 					<Link
